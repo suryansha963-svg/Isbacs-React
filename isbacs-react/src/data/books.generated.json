@@ -1,0 +1,353 @@
+[
+ {
+  "slug": "vol1",
+  "number": 1,
+  "roman": "I",
+  "isbn": "978-81-686260-0-3",
+  "editors": [
+   {
+    "name": "Prof. Ramesh Singh",
+    "dept": "Department of Plant Pathology, TDPG College, Jaunpur"
+   },
+   {
+    "name": "Dr. Prem Chand",
+    "dept": "Department of Zoology, TDPG College, Jaunpur"
+   },
+   {
+    "name": "Dr. Gyaneshwar Sharma",
+    "dept": "Department of Physics, TDPG College, Jaunpur"
+   }
+  ],
+  "chapters": [
+   {
+    "n": 1,
+    "title": "Mushroom Cultivation: An Entrepreneurial Enterprise for Income and Employment Generation",
+    "authors": "Santosh Kumar, Ram Chandra and Deepak Kumar Patel",
+    "pages": [
+     1,
+     8
+    ],
+    "words": 4476,
+    "minutes": 18
+   },
+   {
+    "n": 2,
+    "title": "Integrated Approach for Management of Wilt of Lentil",
+    "authors": "Kamlesh Ram, Ramesh Singh, A. K. Prajapati and Chandra Mani Patel",
+    "pages": [
+     9,
+     22
+    ],
+    "words": 7291,
+    "minutes": 24
+   },
+   {
+    "n": 3,
+    "title": "Major Diseases of Dragon Fruit and Their Management",
+    "authors": "Jitendra Kumar, Hemant Kumar Singh, Niharika Bhatnagar, Pathan Mahajabeen, Garima Maurya, Shubham Patel, Stuti Singh, Ramesh Singh",
+    "pages": [
+     23,
+     42
+    ],
+    "words": 7719,
+    "minutes": 30
+   },
+   {
+    "n": 4,
+    "title": "Scaling Insect-Mediated Ecosystem Services for Resilient Food Systems and Extension Reform",
+    "authors": "Sanjeet Kumar Singh and Abhay Singh",
+    "pages": [
+     43,
+     54
+    ],
+    "words": 4536,
+    "minutes": 21
+   },
+   {
+    "n": 5,
+    "title": "GC-MS Based Phytochemical Profiling of Chilbil (Holoptelea integrifolia), Ajawain Junglee (Seseli indicum) and Guinea Grass (Megathyrsus maximus)",
+    "authors": "Mridalini Singh, Prof. M. Sultan Ahmad",
+    "pages": [
+     55,
+     63
+    ],
+    "words": 2446,
+    "minutes": 11
+   },
+   {
+    "n": 6,
+    "title": "Diseases of Citrus and Their Management",
+    "authors": "Niharika Bhatnagar, Hemant Kumar Singh, Jitendra Kumar, Pathan Mahajabeen, Garima Maurya, Shubham Patel, Stuti Singh, Ramesh Singh",
+    "pages": [
+     64,
+     76
+    ],
+    "words": 5639,
+    "minutes": 24
+   },
+   {
+    "n": 7,
+    "title": "Advances in Green Technology, Waste Management and Social Sustainability",
+    "authors": "Aradhana Verma, Yogesh Chandra Patel",
+    "pages": [
+     77,
+     84
+    ],
+    "words": 3457,
+    "minutes": 14
+   },
+   {
+    "n": 8,
+    "title": "Biodiversity and Conservation of Horticultural Crops",
+    "authors": "Garima Maurya, Hemant Kumar Singh, Jitendra Kumar, Niharika Bhatnagar, Pathan Maha Jabeen, Shubham Patel",
+    "pages": [
+     85,
+     95
+    ],
+    "words": 5554,
+    "minutes": 24
+   },
+   {
+    "n": 9,
+    "title": "Plant Secondary Metabolites as Continued Source of Drugs in Clinical Practice",
+    "authors": "Divya Dwivedi, Shubhra Malviya",
+    "pages": [
+     96,
+     119
+    ],
+    "words": 9041,
+    "minutes": 39
+   },
+   {
+    "n": 10,
+    "title": "Fusarium Wilt of Guava (Psidium guajava L.): Etiology, Epidemiology, Molecular Biology, and Management Strategies",
+    "authors": "Shubham Patel, Hemant Kumar Singh, Ramesh Singh, Vivek Singh, Jitendra Kumar",
+    "pages": [
+     120,
+     130
+    ],
+    "words": 4214,
+    "minutes": 19
+   },
+   {
+    "n": 11,
+    "title": "Management of Sclerotinia Stem Rot of Indian Mustard (Brassica juncia)",
+    "authors": "Gaurav, Ramesh Singh and Anand Kumar Prajapati",
+    "pages": [
+     131,
+     149
+    ],
+    "words": 5903,
+    "minutes": 22
+   },
+   {
+    "n": 12,
+    "title": "Dynamic Spectrum of Thyroid Diseases: From Mechanistic Understanding to Management Approaches",
+    "authors": "Parul Gupta, Alka Singh, Prof. S.K. Verma",
+    "pages": [
+     150,
+     158
+    ],
+    "words": 3757,
+    "minutes": 10
+   },
+   {
+    "n": 13,
+    "title": "Major Diseases of Guava and Their Management",
+    "authors": "Pathan Maha Jabeen, Hemant Kumar Singh, Jitendra Kumar, Niharika Bhatnagar, Garima Maurya, Shubham Patel, Niranjan Singh, Stuti Singh, Ramesh Singh",
+    "pages": [
+     159,
+     174
+    ],
+    "words": 5940,
+    "minutes": 19
+   },
+   {
+    "n": 14,
+    "title": "The PCOS Epidemic: A Crisis of Reproductive Health, Food Sovereignty, and Environmental Integrity",
+    "authors": "Alka Singh, Parul Gupta, Satyendra Kumar Verma",
+    "pages": [
+     175,
+     184
+    ],
+    "words": 3196,
+    "minutes": 12
+   }
+  ],
+  "title": "Ecosecurity through Resource Governance",
+  "published": "September 2026",
+  "mrp": "Rs. 725/-",
+  "publisher": "Indian Society of Bio Agro Chemical Sciences",
+  "pages": 184
+ },
+ {
+  "slug": "vol2",
+  "number": 2,
+  "roman": "II",
+  "isbn": "978-81-686260-1-0",
+  "editors": [
+   {
+    "name": "Prof. S. K. Verma",
+    "dept": "Department of Zoology, TDPG College, Jaunpur"
+   },
+   {
+    "name": "Dr. Ajay Kumar",
+    "dept": "Department of Zoology, TDPG College, Jaunpur"
+   },
+   {
+    "name": "Dr. Asha Rani",
+    "dept": "Department of Zoology, TDPG College, Jaunpur"
+   }
+  ],
+  "chapters": [
+   {
+    "n": 1,
+    "title": "From Stone to Synaptic Intelligence: A Roadmap of Smart Materials from Early Civilizations to the Post-AI Era",
+    "authors": "Gyaneshwar Sharma, Anurag Chaudhari, Abha Singh, Pavan Kumar",
+    "pages": [
+     1,
+     13
+    ],
+    "words": 5879,
+    "minutes": 25
+   },
+   {
+    "n": 2,
+    "title": "Gestational Diabetes Mellitus: An Emerging Global Health Challenge and Sustainable Prevention Strategies",
+    "authors": "Sweety Gupta, Vishal Bhojyawal, Ajay Kumar, Prem Chand",
+    "pages": [
+     14,
+     25
+    ],
+    "words": 5055,
+    "minutes": 23
+   },
+   {
+    "n": 3,
+    "title": "Ecofriendly Strategies for Management of Sheath Blight of Rice caused by Rhizoctonia solani",
+    "authors": "Anand Kumar Prajapati, Ramesh Singh, Gaurav and Shubham Singh",
+    "pages": [
+     26,
+     55
+    ],
+    "words": 13314,
+    "minutes": 58
+   },
+   {
+    "n": 4,
+    "title": "Morphological Variability of Helicoverpa armigera (Hubner) on different Host Plants",
+    "authors": "Archana Singh, Dr. Moti Chandra Yadav",
+    "pages": [
+     56,
+     61
+    ],
+    "words": 2470,
+    "minutes": 9
+   },
+   {
+    "n": 5,
+    "title": "Sclerotinia Stem Rot of Pumpkin (Cucurbita pepo L.): Study and Management",
+    "authors": "Chandra Mani Patel, Ramesh Singh, Kamlesh Ram, Kashish Chaubey",
+    "pages": [
+     62,
+     79
+    ],
+    "words": 8505,
+    "minutes": 34
+   },
+   {
+    "n": 6,
+    "title": "The Effect of Iron Deficiency and Anemia on Women's Health",
+    "authors": "Priyanka Maurya, Pavan Kumar, Asha Rani",
+    "pages": [
+     80,
+     88
+    ],
+    "words": 4360,
+    "minutes": 14
+   },
+   {
+    "n": 7,
+    "title": "Type 2 Diabetes Mellitus: From Epidemiological Burden to Evidence-Based Prevention Strategies",
+    "authors": "Vishal Bhojyawal, Sweety Gupta, Ajay Kumar, Prem Chand",
+    "pages": [
+     89,
+     101
+    ],
+    "words": 5141,
+    "minutes": 22
+   },
+   {
+    "n": 8,
+    "title": "Influence of Hypertension on Quality of Life",
+    "authors": "Sujata and Asha Rani",
+    "pages": [
+     102,
+     117
+    ],
+    "words": 4836,
+    "minutes": 19
+   },
+   {
+    "n": 9,
+    "title": "Heavy Metal and DO Affect Survival and Reproduction of Mollusc",
+    "authors": "Gulab Bind and Asha Rani",
+    "pages": [
+     118,
+     125
+    ],
+    "words": 3530,
+    "minutes": 12
+   },
+   {
+    "n": 10,
+    "title": "Influence of Cultural Practices on the Development of Brown Leaf Spot Disease in Rice",
+    "authors": "Sintoo Prajapati, Ashutosh Kumar, Prem Chand Singh",
+    "pages": [
+     126,
+     139
+    ],
+    "words": 8206,
+    "minutes": 36
+   },
+   {
+    "n": 11,
+    "title": "Migratory Bird Diversity in Wetlands of the Eastern Zone of Uttar Pradesh (India)",
+    "authors": "Mudit Prakash and Asha Rani",
+    "pages": [
+     140,
+     150
+    ],
+    "words": 2325,
+    "minutes": 8
+   },
+   {
+    "n": 12,
+    "title": "Significance of Microbes in Soil Fertility and Plant Nutrition",
+    "authors": "Dashrath Singh and Kamlesh Ram",
+    "pages": [
+     151,
+     163
+    ],
+    "words": 3998,
+    "minutes": 18
+   },
+   {
+    "n": 13,
+    "title": "Study and Management of Agricultural Residues",
+    "authors": "Manya Maurya, Safa Zai, Sushmita Saroj",
+    "pages": [
+     164,
+     171
+    ],
+    "words": 3300,
+    "minutes": 13
+   }
+  ],
+  "title": "Ecosecurity through Resource Governance",
+  "published": "September 2026",
+  "mrp": "Rs. 725/-",
+  "publisher": "Indian Society of Bio Agro Chemical Sciences",
+  "pages": 171
+ }
+]
