@@ -138,6 +138,7 @@ export default function BookPage() {
                 <dt>Editors</dt>
                 <dd>{book.editors.map((e) => <div key={e.name}>{e.name}, {e.dept}</div>)}</dd>
                 <dt>ISBN</dt><dd>{book.isbn}</dd>
+                {book.doi && <><dt>DOI</dt><dd><a href={`https://doi.org/${book.doi}`} target="_blank" rel="noreferrer">{book.doi}</a></dd></>}
                 <dt>MRP</dt><dd>{book.mrp}</dd>
                 <dt>Publisher</dt>
                 <dd>

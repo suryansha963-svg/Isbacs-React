@@ -28,7 +28,8 @@
      8
     ],
     "words": 4476,
-    "minutes": 18
+    "minutes": 18,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch1"
    },
    {
     "n": 2,
@@ -39,7 +40,8 @@
      22
     ],
     "words": 7291,
-    "minutes": 24
+    "minutes": 24,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch2"
    },
    {
     "n": 3,
@@ -50,7 +52,8 @@
      42
     ],
     "words": 7719,
-    "minutes": 30
+    "minutes": 30,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch3"
    },
    {
     "n": 4,
@@ -61,7 +64,8 @@
      54
     ],
     "words": 4536,
-    "minutes": 21
+    "minutes": 21,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch4"
    },
    {
     "n": 5,
@@ -72,7 +76,8 @@
      63
     ],
     "words": 2446,
-    "minutes": 11
+    "minutes": 11,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch5"
    },
    {
     "n": 6,
@@ -83,7 +88,8 @@
      76
     ],
     "words": 5639,
-    "minutes": 24
+    "minutes": 24,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch6"
    },
    {
     "n": 7,
@@ -94,7 +100,8 @@
      84
     ],
     "words": 3457,
-    "minutes": 14
+    "minutes": 14,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch7"
    },
    {
     "n": 8,
@@ -105,7 +112,8 @@
      95
     ],
     "words": 5554,
-    "minutes": 24
+    "minutes": 24,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch8"
    },
    {
     "n": 9,
@@ -116,7 +124,8 @@
      119
     ],
     "words": 9041,
-    "minutes": 39
+    "minutes": 39,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch9"
    },
    {
     "n": 10,
@@ -127,7 +136,8 @@
      130
     ],
     "words": 4214,
-    "minutes": 19
+    "minutes": 19,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch10"
    },
    {
     "n": 11,
@@ -138,7 +148,8 @@
      149
     ],
     "words": 5903,
-    "minutes": 22
+    "minutes": 22,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch11"
    },
    {
     "n": 12,
@@ -149,7 +160,8 @@
      158
     ],
     "words": 3757,
-    "minutes": 10
+    "minutes": 10,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch12"
    },
    {
     "n": 13,
@@ -160,7 +172,8 @@
      174
     ],
     "words": 5940,
-    "minutes": 19
+    "minutes": 19,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch13"
    },
    {
     "n": 14,
@@ -171,14 +184,16 @@
      184
     ],
     "words": 3196,
-    "minutes": 12
+    "minutes": 12,
+    "doi": "10.68237/isbacs.etrg.v1.book1.Ch14"
    }
   ],
   "title": "Ecosecurity through Resource Governance",
   "published": "September 2026",
   "mrp": "Rs. 725/-",
   "publisher": "Indian Society of Bio Agro Chemical Sciences",
-  "pages": 184
+  "pages": 184,
+  "doi": "10.68237/isbacs.etrg.v1.book1"
  },
  {
   "slug": "vol2",
@@ -209,7 +224,8 @@
      13
     ],
     "words": 5879,
-    "minutes": 25
+    "minutes": 25,
+    "doi": "10.68237/isbacs.etrg.v2.book2.Ch1"
    },
    {
     "n": 2,
@@ -220,7 +236,8 @@
      25
     ],
     "words": 5055,
-    "minutes": 23
+    "minutes": 23,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch2"
    },
    {
     "n": 3,
@@ -231,7 +248,8 @@
      55
     ],
     "words": 13314,
-    "minutes": 58
+    "minutes": 58,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch3"
    },
    {
     "n": 4,
@@ -253,7 +271,8 @@
      79
     ],
     "words": 8505,
-    "minutes": 34
+    "minutes": 34,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch5"
    },
    {
     "n": 6,
@@ -264,7 +283,8 @@
      88
     ],
     "words": 4360,
-    "minutes": 14
+    "minutes": 14,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch6"
    },
    {
     "n": 7,
@@ -275,7 +295,8 @@
      101
     ],
     "words": 5141,
-    "minutes": 22
+    "minutes": 22,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch7"
    },
    {
     "n": 8,
@@ -286,7 +307,8 @@
      117
     ],
     "words": 4836,
-    "minutes": 19
+    "minutes": 19,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch8"
    },
    {
     "n": 9,
@@ -297,7 +319,8 @@
      125
     ],
     "words": 3530,
-    "minutes": 12
+    "minutes": 12,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch9"
    },
    {
     "n": 10,
@@ -308,7 +331,8 @@
      139
     ],
     "words": 8206,
-    "minutes": 36
+    "minutes": 36,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch10"
    },
    {
     "n": 11,
@@ -319,7 +343,8 @@
      150
     ],
     "words": 2325,
-    "minutes": 8
+    "minutes": 8,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch11"
    },
    {
     "n": 12,
@@ -330,7 +355,8 @@
      163
     ],
     "words": 3998,
-    "minutes": 18
+    "minutes": 18,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch12"
    },
    {
     "n": 13,
@@ -341,13 +367,15 @@
      171
     ],
     "words": 3300,
-    "minutes": 13
+    "minutes": 13,
+    "doi": "10.68237/isbacs.etrg.v1.book2.Ch13"
    }
   ],
   "title": "Ecosecurity through Resource Governance",
   "published": "September 2026",
   "mrp": "Rs. 725/-",
   "publisher": "Indian Society of Bio Agro Chemical Sciences",
-  "pages": 171
+  "pages": 171,
+  "doi": "10.68237/isbacs.etrg.v1.book2"
  }
 ]

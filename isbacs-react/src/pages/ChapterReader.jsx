@@ -114,7 +114,7 @@ export default function ChapterReader() {
 
   const prev = book.chapters.find((c) => c.n === num - 1);
   const next = book.chapters.find((c) => c.n === num + 1);
-  const cite = `${meta.authors} (2026). ${meta.title}. In: ${book.editors.map((e) => e.name).join(', ')} (Eds.), ${book.title}, Volume ${book.roman}, pp. ${meta.pages[0]}–${meta.pages[1]}. ${book.publisher}, Varanasi. ISBN ${book.isbn}.`;
+  const cite = `${meta.authors} (2026). ${meta.title}. In: ${book.editors.map((e) => e.name).join(', ')} (Eds.), ${book.title}, Volume ${book.roman}, pp. ${meta.pages[0]}–${meta.pages[1]}. ${book.publisher}, Varanasi. ISBN ${book.isbn}.${meta.doi ? ` https://doi.org/${meta.doi}` : ''}`;
   const copy = async () => {
     try { await navigator.clipboard.writeText(cite); setCopied(true); setTimeout(() => setCopied(false), 1800); } catch { /* ignore */ }
   };
@@ -179,6 +179,7 @@ export default function ChapterReader() {
               <div className="ch-kicker">Volume {book.roman} · Chapter {num} · pp. {meta.pages[0]}–{meta.pages[1]} · {meta.minutes} min read</div>
               <h1>{meta.title}</h1>
               <p className="ch-by">{meta.authors}</p>
+              {meta.doi && <p className="ch-doi">DOI: <a href={`https://doi.org/${meta.doi}`} target="_blank" rel="noreferrer">{meta.doi}</a></p>}
               {data?.affiliations?.length > 0 && (
                 <ul className="ch-aff">{data.affiliations.map((a, i) => <li key={i}>{a}</li>)}</ul>
               )}
