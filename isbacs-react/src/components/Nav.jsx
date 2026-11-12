@@ -38,6 +38,16 @@ export default function Nav() {
         ))}
         <li>
           <a
+            href="https://forms.gle/wZgJ28e9nkXz2AnD9"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="nav-ext"
+          >
+            Join Membership ↗
+          </a>
+        </li>
+        <li>
+          <a
             href="https://suryansha963-svg.github.io/megasrm/"
             target="_blank"
             rel="noopener noreferrer"
