@@ -38,6 +38,17 @@ export default function Publications() {
         </div>
       </div>
 
+      <section className="journal-feature" aria-labelledby="journal-title">
+        <div className="journal-feature-inner">
+          <div>
+            <div className="journal-feature-tag">ISBACS Journal</div>
+            <h2 id="journal-title">Journal of Bio Agro Chemical Research</h2>
+            <p>Online · Monthly · Multidisciplinary subjects · Starting 2026</p>
+          </div>
+          <Link to="/journal/editorial-board" className="journal-board-link">Editorial Board <span aria-hidden="true">→</span></Link>
+        </div>
+      </section>
+
       <section className="section research-areas">
         <div className="section-inner">
           <div className="section-tag">Focus Domains</div>

@@ -13,6 +13,7 @@ import Contact from './pages/Contact.jsx';
 import Books from './pages/Books.jsx';
 import BookPage from './pages/BookPage.jsx';
 import ChapterReader from './pages/ChapterReader.jsx';
+import EditorialBoard from './pages/EditorialBoard.jsx';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -42,6 +43,7 @@ export default function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/documents" element={<Documents />} />
         <Route path="/publications" element={<Publications />} />
+        <Route path="/journal/editorial-board" element={<EditorialBoard />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/books" element={<Books />} />
         <Route path="/books/:slug" element={<BookPage />} />
